@@ -1,2 +1,4 @@
 # ignore All .env files
 **/ *.env
+**/.env
+.env
